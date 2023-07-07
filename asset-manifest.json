@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indegenous/static/css/main.f4a2ae8c.css",
+    "main.js": "/indegenous/static/js/main.0bdd45bc.js",
+    "static/js/787.de4f6422.chunk.js": "/indegenous/static/js/787.de4f6422.chunk.js",
+    "index.html": "/indegenous/index.html",
+    "main.f4a2ae8c.css.map": "/indegenous/static/css/main.f4a2ae8c.css.map",
+    "main.0bdd45bc.js.map": "/indegenous/static/js/main.0bdd45bc.js.map",
+    "787.de4f6422.chunk.js.map": "/indegenous/static/js/787.de4f6422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a2ae8c.css",
+    "static/js/main.0bdd45bc.js"
+  ]
+}
